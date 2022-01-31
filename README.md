@@ -1,6 +1,3 @@
-title: News Media Representation of Social Service Agencies in Singapore test
-description: Bookmark this to keep an eye on my project updates!
-
 ## Introduction
 testing...
 
