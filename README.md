@@ -10,6 +10,7 @@ The analyses used a dataset of English-language news articles published in the t
 ## Findings
 Findings
 
+![Figure 1](docs/assets/num_articles.png) 
 More news about SSAs were published during COVID-19. The number of news that mentioned “social service agencies” (including voluntary welfare organization* and community service agencie*) increased considerably from January 2020 after the first case of COVID-19 was detected in Singapore. As shown in Figure ?, this trend tapered off with the ending of the Circuit-breaker partial lock-down and with the transition into Phase 1 Safe-reopening. The monthly number of news then showed a decreasing trend from Phase 2 Safe Transition to Phase 3 Safe Nation. But with the return to Phase 2 (heightened alert), the attention on SSAs picked up again and the number of news increased at least until November 2021. What is clear from these trends is that the amount of local media attention on SSAs was related to the tightening or loosening up of public safety measures for COVID-19. In a later section, I found that most of the news were about the overwhelming service demands and service suspensions faced by SSAs. Aside from the ups and downs of trends, I calculated that the average number of news published on SSAs each month was significantly higher in the COVID-19 period (Mean, M = 33, standard deviation, SD = 14) compared to the pre-COVID-19 period (M = 25, SD = 10) . This is equivalent to almost a 32% increase in the amount of news on SSAs published in the COVID-19 period. 
 
 
