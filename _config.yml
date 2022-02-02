@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+
+remote_theme: pages-themes/minimal
 
 title: News Media Representation of Social Service Agencies During COVID-19 Pandemic in Singapore [Under construction]
 description: A corpus linguistics approach
