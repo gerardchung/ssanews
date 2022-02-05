@@ -1,10 +1,8 @@
 
-remote_theme: pages-themes/minimal
 
 title: News Media Representation of Social Service Agencies During COVID-19 Pandemic in Singapore [Under construction]
 description: A corpus linguistics approach
 github:
   zip_url: https://github.com/gerardchung/ssa_covid_news.git
   another_url: another value
-
-theme: jekyll-theme-minimal
+theme: minima
