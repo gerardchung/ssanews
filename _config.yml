@@ -7,4 +7,4 @@ github:
   zip_url: https://github.com/gerardchung/ssa_covid_news.git
   another_url: another value
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
