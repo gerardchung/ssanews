@@ -88,6 +88,7 @@ From **Figure 4**, we see that the adjectives (i.e., words that describe an attr
 Verbs in the English language convey action. Thus, tagging words to verbs can help us to understand what actions are often referred to in this collection of news on SSAs. In **Figure 5**, The popular verb “say” was frequently used to quote or cite SSAs or social service practitioners when they were interviewed by journalists for their views of specific social issues (“social service agencies say the greatest need is tackling the isolation faced by vulnerable groups like the elderly”). In the next section, my analysis showed that the “expertise of SSAs” was a popular news topic represented in news media on SSAs. Other verbs (“continue”, “support”, “help”, “apply”) that increased in use during the pandemic referred to help schemes and services that families and individuals can use to cope in the pandemic. 
 
 <hr />  
+
 ### Q3. What news topics about SSAs garnered more news attention during the pandemic?
 
 ![Figure 6 - New topics percentages during pandemic](docs/assets/labels_topics_duringCOVID.png)
@@ -118,7 +119,7 @@ Overall, the news on SSAs during the pandemic has been mostly neutral or positiv
 ![Figure 8 - Client groups in news during pandemic](docs/assets/clientgroup_duringcovid.png)
 *Figure 8 - Client groups in news during pandemic.*
 
-![Figure 9 - Client groups in news comparing pandemic and pre-pandemic](docs/assets/clientgroup_duringcovid.png)
+![Figure 9 - Client groups in news comparing pandemic and pre-pandemic](docs/assets/clientgroup.png)
 *Figure 9 - Client groups in news comparing pandemic and pre-pandemic.*
 
 #### Client groups reported in the news during COVID-19.
