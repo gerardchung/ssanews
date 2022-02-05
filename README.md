@@ -149,6 +149,29 @@ News media and news journalists play an important role in shaping public opinion
 
 What does a proactive media strategy looks like? This may include considering the material interests of news media companies, understanding the process of news creation, and building relationships with news journalists (Cordoba, 2017)[^5]. One study in the UK interviewed social workers and they recommended that more needed to be done actively to identify and utilise success stories, and provide a more accurate insight into the role and the extensive training of those in the profession (Legood et al., 2016). To my best knowledge, no study in Singapore has looked at how social service professionals experience public perception. A future study can help to understand how social service professionals here experience public perception and explore what are the ways to promote SSAs and social service profession in Singapore. 
 
+## <center>References</center>
+
+- Althaus, S. L. (2002). American News Consumption during Times of National Crisis. PS: Political Science and Politics, 35(3), 517–521. JSTOR.
+- Ball-Rokeach, S. J. (2010). Media System Dependency Theory. In The International Encyclopedia of Communication. John Wiley & Sons, Ltd. https://doi.org/10.1002/9781405186407.wbiecm051
+- Blomberg, H. (2019). “We’re not magicians!” On the use of rhetorical resources in Swedish news media narratives portraying the social services and social workers. Qualitative Social Work, 18(2), 229–246. https://doi.org/10.1177/1473325017710324
+- Chung, G., Chan, X. W., Lanier, P., & Ju, P. W. Y. (2020). Associations Between Work-Family Balance, Parenting Stress, and Marital Conflicts During COVID-19 Pandemic in Singapore [Preprint]. Open Science Framework. https://doi.org/10.31219/osf.io/nz9s8
+- Chung, G., Lanier, P., & Wong, P. Y. J. (2020). Mediating Effects of Parental Stress on Harsh Parenting and Parent-Child Relationship during Coronavirus (COVID-19) Pandemic in Singapore. Journal of Family Violence. https://doi.org/10.1007/s10896-020-00200-1
+- Cordoba, P. S. (2017). Representations of Social Work in the Australian News Media. Australian Social Work, 70(4), 453–464. https://doi.org/10.1080/0312407X.2017.1324886
+Franklin, B. (1998). Hard Pressed. The Manson Group, Reed Business Information.
+- Gaughan, L., & Garrett, P. M. (2012). The ‘most twisted and unaccountable force in the state’? Newspaper accounts of social work in the Republic of Ireland in troubled times. Journal of Social Work, 12(3), 267–286. https://doi.org/10.1177/1468017310383269
+Leedham, M. (2021). ‘Social Workers Failed to Heed Warnings’: A Text-Based Study of How a Profession is Portrayed in UK Newspapers. The British Journal of Social Work, bcab096. https://doi.org/10.1093/bjsw/bcab096
+Legood, A., McGrath, M., Searle, R., & Lee, A. (2016). Exploring How Social Workers Experience and Cope with Public Perception of Their Profession. British Journal of Social Work, 46(7), 1872–1889. https://doi.org/10.1093/bjsw/bcv139
+Ministry of Family and Social Development. (2018, November 19). Total number of persons with disabilities in Singapore. Media Room. https://www.msf.gov.sg/media-room/Pages/Total-number-of-persons-with-disabilities-in-Singapore.aspx
+National Council of Social Services. (2021). Emerging Stronger Together—A Guide Beyond COVID-19. National Council of Social Services. https://www.ncss.gov.sg/docs/default-source/ncss-publications-doc/pdfdocument/emerging-stronger-together-guide.pdf
+Reid, W. J., & Misener, E. (2001). Social work in the press: A cross-national study. International Journal of Social Welfare, 10(3). https://doi.org/10.1111/1468-2397.00172
+Seng, B. K., Subramaniam, M., Chung, Y. J., Syed Ahmad, S. A. M., & Chong, S. A. (2021). Resilience and stress in frontline social workers during the COVID-19 pandemic in Singapore. Asian Social Work and Policy Review, 15(3), 234–243. https://doi.org/10.1111/aswp.12237
+Staniforth, B., & Beddoe, E. (2017). Five years in the news: A media analysis of Child, Youth and Family in two daily newspapers (2008–2012). Aotearoa New Zealand Social Work, 29(4), 5–18. https://doi.org/10.11157/anzswj-vol29iss4id382
+Van Aelst, P., Toth, F., Castro, L., Štětka, V., Vreese, C. de, Aalberg, T., Cardenal, A. S., Corbu, N., Esser, F., Hopmann, D. N., Koc-Michalska, K., Matthes, J., Schemer, C., Sheafer, T., Splendore, S., Stanyer, J., Stępińska, A., Strömbäck, J., & Theocharis, Y. (2021). Does a Crisis Change News Habits? A Comparative Study of the Effects of COVID-19 on News Media Use in 17 European Countries. Digital Journalism, 9(9), 1208–1238. https://doi.org/10.1080/21670811.2021.1943481
+Zugazaga, C. B., Surette, R. B., Mendez, M., & Otto, C. W. (2006). SOCIAL WORKER PERCEPTIONS OF THE PORTRAYAL OF THE PROFESSION IN THE NEWS AND ENTERTAINMENT MEDIA: AN EXPLORATORY STUDY. Journal of Social Work Education, 42(3), 621–636. https://doi.org/10.5175/JSWE.2006.200500502
+
+![image](https://user-images.githubusercontent.com/65118803/152631903-e0d74ff6-1fb7-4fd2-a6c8-a4e8730fe30f.png)
+
+
 ## <center>End Notes</center>
 
 [^1]: See discussion on text preprocessing in Chung, G., Rodriguez, M., Lanier, P., & Gibbs, D. (2021, May 11). Text-mining open-ended survey responses using structural topic modeling: A practical demonstration to understand parents’ coping methods during COVID-19 pandemic in Singapore. https://doi.org/10.31219/osf.io/enzst
@@ -162,4 +185,4 @@ What does a proactive media strategy looks like? This may include considering th
 [^5]: The National Association of Social Workers (NASW) in the US has often been cited as a case study of a successful proactive media approach where NASW developed the NASW’s National Communications Network and the SocialWorkersSpeak.org website. For many years, NASW has actively developed and maintained positive relationships with the media through different initiatives such as media monitoring, providing consultation, industry awards, and support for filmmakers and journalists. 
 
 
-## <center>References</center>
+
