@@ -169,7 +169,6 @@ What does a proactive media strategy looks like? This may include considering th
 - Van Aelst, P., Toth, F., Castro, L., Štětka, V., Vreese, C. de, Aalberg, T., Cardenal, A. S., Corbu, N., Esser, F., Hopmann, D. N., Koc-Michalska, K., Matthes, J., Schemer, C., Sheafer, T., Splendore, S., Stanyer, J., Stępińska, A., Strömbäck, J., & Theocharis, Y. (2021). Does a Crisis Change News Habits? A Comparative Study of the Effects of COVID-19 on News Media Use in 17 European Countries. Digital Journalism, 9(9), 1208–1238. https://doi.org/10.1080/21670811.2021.1943481
 - Zugazaga, C. B., Surette, R. B., Mendez, M., & Otto, C. W. (2006). SOCIAL WORKER PERCEPTIONS OF THE PORTRAYAL OF THE PROFESSION IN THE NEWS AND ENTERTAINMENT MEDIA: AN EXPLORATORY STUDY. Journal of Social Work Education, 42(3), 621–636. https://doi.org/10.5175/JSWE.2006.200500502
 
-
 ## <center>End Notes</center>
 
 [^1]: See discussion on text preprocessing in Chung, G., Rodriguez, M., Lanier, P., & Gibbs, D. (2021, May 11). Text-mining open-ended survey responses using structural topic modeling: A practical demonstration to understand parents’ coping methods during COVID-19 pandemic in Singapore. https://doi.org/10.31219/osf.io/enzst
