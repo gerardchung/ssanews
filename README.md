@@ -65,12 +65,14 @@ In a crisis like the COVID-19 pandemic where there are high uncertainty and wide
 ![Figure 2 - Word stems used more during pandemic](docs/assets/ngram_change_increase.png)
 *Figure 2 - Word stems used more during pandemic.*
 
+<br>
 #### “Shelter*”, “support*”, “fund*”, and “senior*” word stems were used more in news during the pandemic. 
 To identify words that increased in use during COVID-19, the number of times that words[^4] appeared in the news were compared between the pandemic and the pre-pandemic period. Every word in the corpus was first reduced to its linguistic root form using word stemming (e.g., “families” and “family” will be reduced to “famili”; “addiction” and “addicted” to “addict”). Subsequently, each word stem’s frequency in the corpus was calculated. **Figure 2** shows that word stems such as “shelter”, “support”, “fund”, “senior”, and “famili” (e.g., supporting, supportive, funds, funding, senior citizens, families) were used more during the pandemic compared to the pre-pandemic period. The increase for “shelter”, “support”, and “fund” was close to 100% more during the COVID-19 period relative to the pre-pandemic period. 
 
 
 ![Figure 3 - Word stems used lesser during pandemic](docs/assets/ngram_change_decrease.png)
 *Figure 3 - Word stems used lesser during pandemic.*
+
 	
 On the other hand, some keywords were used lesser in the news on SSAs during the pandemic period. In **Figure 3**, words related to word stems such as “addict” (e.g., addictions, addicted addicts), “disabl” (disability, disabled), “debt”, and “domest_worker” were less used in news during the pandemic compared to the pre-pandemic period. Notably, the word stem “addict” had a 79% decrease in use during the pandemic indicating that less attention was given to topics related to addiction in the context of news on SSAs. These results were reflected again in a later section where I analyzed topics of the news.
 
@@ -80,10 +82,12 @@ A more informative way to understand how words are used in newspaper text is to 
 ![Figure 4 - Adjectives used more during pandemic](docs/assets/pos_adjective.png)
 *Figure 4 - Adjectives used more during pandemic.*
 
+
 From **Figure 4**, we see that the adjectives (i.e., words that describe an attribute of a noun) that increased in news usage during the pandemic period include “national” and “essential”. Subsequent investigations indicate that the “national” adjective often refers to national entities such as National Council of Social Services or National Care Hotline while “essential” often refers to “essential aid” or “essential services”. Other popular adjectives used in the news described client groups. These include “senior”, “homeless”, “vulnerable”, and “rough” (e.g., rough sleepers). The three adjectives “near”, “additional”, and “more” were often used to describe social service delivery and availability such as “nearest family service centre”, “additional funding”, and “more support for families”. 
 
 ![Figure 5 - Verbs used more during pandemic](docs/assets/pos_verbs.png)
 *Figure 5 - Verbs used more during pandemic.*
+
 	
 Verbs in the English language convey action. Thus, tagging words to verbs can help us to understand what actions are often referred to in this collection of news on SSAs. In **Figure 5**, The popular verb “say” was frequently used to quote or cite SSAs or social service practitioners when they were interviewed by journalists for their views of specific social issues (“social service agencies say the greatest need is tackling the isolation faced by vulnerable groups like the elderly”). In the next section, my analysis showed that the “expertise of SSAs” was a popular news topic represented in news media on SSAs. Other verbs (“continue”, “support”, “help”, “apply”) that increased in use during the pandemic referred to help schemes and services that families and individuals can use to cope in the pandemic. 
 
@@ -94,8 +98,10 @@ Verbs in the English language convey action. Thus, tagging words to verbs can he
 ![Figure 6 - New topics percentages during pandemic](docs/assets/labels_topics_duringCOVID.png)
 *Figure 6 - New topics percentages during pandemic.*
 
+
 ![Figure 7 - New topics percentages comparing pandemic and pre-pandemic](docs/assets/labels_topics.png)
 *Figure 7 - New topics percentages comparing pandemic and pre-pandemic.*
+
 
 #### News during the pandemic gave more attention to SSAs’ expertise role, collaborations, service suspensions, and funding. 
 To understand what topics news on SSAs reported on, I sampled and manually read 1,470 sentences (from 829 articles or 75% of the corpus) and categorized each instance’s news topic(s). guided This topic classification was guided by existing studies that used corpus linguistics and qualitative thematic approaches to analyze news portrayal of social services (e.g., Leedham, 2021; Blomberg, 2019). 
@@ -121,6 +127,7 @@ Overall, the news on SSAs during the pandemic has been mostly neutral or positiv
 
 ![Figure 9 - Client groups in news comparing pandemic and pre-pandemic](docs/assets/clientgroup.png)
 *Figure 9 - Client groups in news comparing pandemic and pre-pandemic.*
+
 
 #### Client groups reported in the news during COVID-19.
 	
@@ -180,6 +187,3 @@ What does a proactive media strategy looks like? This may include considering th
 [^4]: More accurately, I generated and analyzed n-grams phrases (1 to 3-grams; e.g., senior, activity, activity_centre, senior_activity_centre) since n-grams better capture semantic contexts than single words (i.e., 1-gram). For instance, “domest_worker” 
 
 [^5]: The National Association of Social Workers (NASW) in the US has often been cited as a case study of a successful proactive media approach where NASW developed the NASW’s National Communications Network and the SocialWorkersSpeak.org website. For many years, NASW has actively developed and maintained positive relationships with the media through different initiatives such as media monitoring, providing consultation, industry awards, and support for filmmakers and journalists. 
-
-
-
