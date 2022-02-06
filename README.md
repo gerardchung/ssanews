@@ -65,7 +65,6 @@ In a crisis like the COVID-19 pandemic where there are high uncertainty and wide
 ![Figure 2 - Word stems used more during pandemic](docs/assets/ngram_change_increase.png)
 *Figure 2 - Word stems used more during pandemic.*
 
-<br>
 #### “Shelter*”, “support*”, “fund*”, and “senior*” word stems were used more in news during the pandemic. 
 To identify the words that increased in use during COVID-19, the number of times that words[^4] appeared in the news were compared between the pandemic and the pre-pandemic period. Every word in the corpus was first reduced to its linguistic root form using word stemming (e.g., “families” and “family” will be reduced to “famili”; “addiction” and “addicted” to “addict”). Subsequently, each word stem’s frequency in the corpus was calculated. **Figure 2** shows that word stems such as “shelter”, “support”, “fund”, “senior”, and “famili” (e.g., supporting, supportive, funds, funding, senior citizens, families) were used more during the pandemic compared to the pre-pandemic period. The increase for “shelter”, “support”, and “fund” was close to 100% more during the COVID-19 period relative to the pre-pandemic period. 
 
